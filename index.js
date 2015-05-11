@@ -1,6 +1,4 @@
-var Base    = require('./base')
-  , color   = Base.color;
-  , request = require('supertest');
+var request = require('supertest');
 
 /**
  * Expose `List`.
@@ -14,7 +12,6 @@ exports = module.exports = List;
  * @api public
  */
 function List(runner) {
-  Base.call(this, runner);
 
   var self = this
     , stats = this.stats
