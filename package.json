@@ -1,0 +1,28 @@
+{
+  "name": "http-mocha-reporter",
+  "version": "1.0.0",
+  "description": "mocha event stream HTTP reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeroldangarcia/http-mocha-reporter.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Ernesto Roldan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeroldangarcia/http-mocha-reporter/issues"
+  },
+  "homepage": "https://github.com/jeroldangarcia/http-mocha-reporter",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "supertest": "^0.15.0"
+  }
+}
