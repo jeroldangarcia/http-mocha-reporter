@@ -1,6 +1,6 @@
 {
   "name": "http-mocha-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mocha event stream HTTP reporter",
   "main": "index.js",
   "scripts": {
